@@ -10,7 +10,7 @@
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Chhatrasal Singh
 :--|:--|
 <b> Institute | <b>  Rajkiya Engineering College Banda
 <b> Email id|     <b>  2407340130022
@@ -19,6 +19,6 @@ Fill a brief description of this experiment here
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+:-1-|:2--|:-3-|:-4-|:-5-|:-6-|
+1 | . chhatrasal singh| . | . | . | .
 2 | . | . | . | . | .
