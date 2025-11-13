@@ -1,10 +1,10 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Information Technology
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Virtual Lab
+<b> Experiment|     <b>  Implement a simulation of the rotating cylinder. Users can adjust the rotation speed.
 
 ### About the Experiment 
 
@@ -12,9 +12,9 @@ Fill a brief description of this experiment here
 
 <b>Name of Developer | <b> Fill the name of experiment owner here 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  Rajkiya Engineering College Banda
+<b> Email id|     <b>  2407340130022
+<b> Department |  Information Technology
 
 ### Contributors List
 
