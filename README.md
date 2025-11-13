@@ -13,12 +13,12 @@ Fill a brief description of this experiment here
 <b>Name of Developer | <b> Chhatrasal Singh
 :--|:--|
 <b> Institute | <b>  Rajkiya Engineering College Banda
-<b> Email id|     <b>  2407340130022
+<b> Email id|     <b>  2407340130022@recbanda.ac.in
 <b> Department |  Information Technology
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | chhatrasal singh| Student |Information Technology  |  | .
+1 | chhatrasal singh| Student |Information Technology  | Rajkiya Engineering College Banda | 2407340130022@recbanda.ac.in
 2 | . | . | . | . | .
