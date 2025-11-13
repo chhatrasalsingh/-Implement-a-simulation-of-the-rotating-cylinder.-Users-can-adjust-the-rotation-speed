@@ -19,6 +19,6 @@ Fill a brief description of this experiment here
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
-:-1-|:2--|:-3-|:-4-|:-5-|:-6-|
+:--|:--|:--|:--|:--|:--|
 1 | . chhatrasal singh| . | . | . | .
 2 | . | . | . | . | .
